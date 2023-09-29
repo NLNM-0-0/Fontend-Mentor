@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    @apply h-full;
+  }
+  body {
+    @apply bg-[#D5E1EF];
+    @apply font-[Outfit];
+    @apply text-center;
+    @apply h-full;
+    @apply flex;
+    @apply justify-center;
+    @apply items-center;
+  }
+  h1 {
+    @apply text-[#242F42];
+    @apply text-2xl;
+    @apply font-bold;
+    @apply p-2;
+  }
+  p {
+    @apply text-[#999CA3];
+    @apply text-base;
+    @apply p-2;
+  }
+}
