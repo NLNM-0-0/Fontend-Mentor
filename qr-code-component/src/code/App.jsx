@@ -4,6 +4,7 @@ function App() {
       <img
         className="max-w-[100%] rounded-[inherit] mb-4"
         src={require("../images/image-qr-code.png")}
+        alt="qr-code"
       />
       <div className="p-2">
         <h1 className="lg:text-3xl">
