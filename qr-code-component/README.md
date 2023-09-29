@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-Live Site URL: [Github Pages]([https://your-live-site-url.com](https://nlnm-0-0.github.io/Fontend-Mentor/qr-code-component/index.html)https://nlnm-0-0.github.io/Fontend-Mentor/qr-code-component/index.html)
+Live Site URL: [Github Pages](https://your-live-site-url.com](https://nlnm-0-0.github.io/Fontend-Mentor/qr-code-component/index.html)https://nlnm-0-0.github.io/Fontend-Mentor/qr-code-component/index.html)
 
 ## My process
 
@@ -30,4 +30,4 @@ Live Site URL: [Github Pages]([https://your-live-site-url.com](https://nlnm-0-0.
 
 ### Useful resources
 
-- [Github Pages for React App]([https://www.example.com](https://github.com/gitname/react-gh-pages))
+- [Github Pages for React App](https://github.com/gitname/react-gh-pages)
