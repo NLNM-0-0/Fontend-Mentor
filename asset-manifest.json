@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Fontend-Mentor/qr-code-component/static/css/main.75b7c6ba.css",
-    "main.js": "/Fontend-Mentor/qr-code-component/static/js/main.3d1e1ba1.js",
-    "static/js/787.cc137750.chunk.js": "/Fontend-Mentor/qr-code-component/static/js/787.cc137750.chunk.js",
-    "index.html": "/Fontend-Mentor/qr-code-component/index.html",
-    "main.75b7c6ba.css.map": "/Fontend-Mentor/qr-code-component/static/css/main.75b7c6ba.css.map",
-    "main.3d1e1ba1.js.map": "/Fontend-Mentor/qr-code-component/static/js/main.3d1e1ba1.js.map",
-    "787.cc137750.chunk.js.map": "/Fontend-Mentor/qr-code-component/static/js/787.cc137750.chunk.js.map"
+    "main.css": "/qr-code-component/static/css/main.75b7c6ba.css",
+    "main.js": "/qr-code-component/static/js/main.85be1a2d.js",
+    "static/js/787.cc137750.chunk.js": "/qr-code-component/static/js/787.cc137750.chunk.js",
+    "index.html": "/qr-code-component/index.html",
+    "main.75b7c6ba.css.map": "/qr-code-component/static/css/main.75b7c6ba.css.map",
+    "main.85be1a2d.js.map": "/qr-code-component/static/js/main.85be1a2d.js.map",
+    "787.cc137750.chunk.js.map": "/qr-code-component/static/js/787.cc137750.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.75b7c6ba.css",
-    "static/js/main.3d1e1ba1.js"
+    "static/js/main.85be1a2d.js"
   ]
 }
